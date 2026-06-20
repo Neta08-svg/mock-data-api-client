@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.neta08-svg/mockforge",
+  "description": "Generate realistic fake/test data as JSON (people, emails, UUIDs, companies, addresses, …).",
+  "version": "1.0.0",
+  "packages": [
+    { "registryType": "npm", "identifier": "mockforge-mcp", "version": "1.0.0", "transport": { "type": "stdio" } }
+  ]
+}
